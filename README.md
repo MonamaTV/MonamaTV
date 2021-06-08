@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Monama Tadima
 - 👀 I’m interested in Web Development and Cloud Computing ...
-- 🌱 I’m currently building projects ReactJS to build Single Page Applications, and NodeJS for developing Rest APIs
+- 🌱 I’m currently building projects with ReactJS for Frontend apps, and NodeJS for developing Rest APIs
 - 💞️ I’ll be more than happy to collaborate on any open source projects but preferably within mobile and web dev ecosystems.
 - 📫 You can reach me via email: keletsovincent92@gmail.com
 - 🌐 https://monamatv.netlify.app 
